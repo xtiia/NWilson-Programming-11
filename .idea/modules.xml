@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Expressions Assignment/Expressions Assignment.iml" filepath="$PROJECT_DIR$/Expressions Assignment/Expressions Assignment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/NWilson-Programming-11.iml" filepath="$PROJECT_DIR$/.idea/NWilson-Programming-11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SchoolProject/SchoolProject.iml" filepath="$PROJECT_DIR$/SchoolProject/SchoolProject.iml" />
+    </modules>
+  </component>
+</project>
